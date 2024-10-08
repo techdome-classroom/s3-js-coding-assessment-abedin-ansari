@@ -10,7 +10,7 @@ var romanToInt = function(s) {
         'L',
         'C',
         'D',
-        'M'
+        'M':1000
     }
 };
 
