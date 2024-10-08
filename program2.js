@@ -20,7 +20,7 @@ var romanToInt = function(s) {
         if(i+1 < s.length && map[s[i]] < map[s[i+1]]){
             result -= map[s[i]];
         } else {
-            result += map[s[i]]
+            result += map[s[i]];
         }
     }
 };
