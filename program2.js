@@ -8,7 +8,7 @@ var romanToInt = function(s) {
         'V':5,
         'X',
         'L',
-        'C',
+        'C'100,
         'D'500,
         'M':1000
     }
