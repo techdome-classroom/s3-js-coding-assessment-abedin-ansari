@@ -2,7 +2,9 @@
  * @param {string} s
  * @return {boolean}
  */
-
+function isValid(s){
+    const stack = []
+}
 // var isValid = function(s) {
     
 // };
