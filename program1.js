@@ -8,8 +8,9 @@ function isValid(s){
         ')':'(',
         ']':'[',
         '}':'{'
-    }
-    }
+    };
+
+    for()
 }
 // var isValid = function(s) {
     
