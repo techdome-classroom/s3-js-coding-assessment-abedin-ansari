@@ -3,7 +3,10 @@
  * @return {boolean}
  */
 function isValid(s){
-    const stack = []
+    const stack = [];
+    const map = {
+        ')'
+    }
 }
 // var isValid = function(s) {
     
