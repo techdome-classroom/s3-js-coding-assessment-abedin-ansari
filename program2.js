@@ -4,7 +4,7 @@
  */
 var romanToInt = function(s) {
     const map = {
-        'l'
+        'l': 1
     }
 };
 
