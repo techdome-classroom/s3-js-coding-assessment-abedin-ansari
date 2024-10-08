@@ -5,7 +5,8 @@
 function isValid(s){
     const stack = [];
     const map = {
-        ')':
+        ')':'(',
+        
     }
 }
 // var isValid = function(s) {
