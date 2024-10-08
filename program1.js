@@ -11,7 +11,9 @@ function isValid(s){
     };
 
     for(let i = 0; i < s.length; i++){
-        if(s[i] === '(' || s[i] === '[' || s[i] === '{')
+        if(s[i] === '(' || s[i] === '[' || s[i] === '{'){
+            
+        }
     }
 }
 // var isValid = function(s) {
