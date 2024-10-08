@@ -4,7 +4,9 @@
  */
 var romanToInt = function(s) {
     const map = {
-        'l': 1
+        'I':1,
+        'V':5,
+        ''
     }
 };
 
