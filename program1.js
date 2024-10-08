@@ -9,6 +9,7 @@ function isValid(s){
         ']':'[',
         '}':'{'
     }
+    }
 }
 // var isValid = function(s) {
     
