@@ -11,7 +11,7 @@ function isValid(s){
     };
 
     for(let i = 0; i < s.length; i++){
-        
+        if(s[i])
     }
 }
 // var isValid = function(s) {
