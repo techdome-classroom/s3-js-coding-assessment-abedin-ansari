@@ -1,3 +1,5 @@
+const res = require("express/lib/response");
+
 /**
  * @param {string} s
  * @return {number}
@@ -17,6 +19,8 @@ var romanToInt = function(s) {
     for(let i=0; i< s.length; i++){
         if(i+1 < s.length && map[s[i]] < map[s[i+1]]){
             result -= map[s[i]];
+        } else {
+            result += map[s[i]]
         }
     }
 };
