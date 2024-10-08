@@ -13,10 +13,10 @@ var romanToInt = function(s) {
         'M':1000
     };
 
-    let import { createSelector } from 'reselect'
-    
-    export const selectorName = state => state.selector
-    
+    let result = 0;
+    for(let i=0; i< s.length; i++){
+        
+    }
 };
 
 
